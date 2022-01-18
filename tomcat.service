@@ -7,8 +7,8 @@ After=network.target
 [Service]
 Type=forking
 
-User=root
-Group=root
+User=tomcat
+Group=tomcat
 UMask=0007
 RestartSec=10
 Restart=always
@@ -18,7 +18,7 @@ Environment="JAVA_OPTS=-JAVA_OPTS=-Djava.awt.headless=true -Djava.security.egd=f
 
 Environment="CATALINA_BASE=/usr/tomcat/apache-tomcat-8.5.73"
 Environment="CATALINA_HOME=/usr/tomcat/apache-tomcat-8.5.73"
-Environment="CATALINA_PID=/usr/tomcat/latest/temp/tomcat.pid"
+Environment="CATALINA_PID=/usr/tomcat/apache-tomcat-8.5.73/temp/tomcat.pid"
 Environment="CATALINA_OPTS=-Xms512M -Xmx1024M -server -XX:+UseParallelGC"
 
 ExecStart=/usr/tomcat/apache-tomcat-8.5.73/bin/startup.sh
