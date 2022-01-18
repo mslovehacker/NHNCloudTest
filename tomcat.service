@@ -13,9 +13,6 @@ UMask=0007
 RestartSec=10
 Restart=always
 
-Environment="JAVA_HOME=/usr/lib/jvm/java-1.11.0-openjdk-amd64"
-Environment="JAVA_OPTS=-JAVA_OPTS=-Djava.awt.headless=true -Djava.security.egd=file:/dev/./urandom"
-
 Environment="CATALINA_BASE=/usr/tomcat/apache-tomcat-8.5.73"
 Environment="CATALINA_HOME=/usr/tomcat/apache-tomcat-8.5.73"
 Environment="CATALINA_PID=/usr/tomcat/apache-tomcat-8.5.73/temp/tomcat.pid"
