@@ -13,13 +13,13 @@ UMask=0007
 RestartSec=10
 Restart=always
 
-Environment="CATALINA_BASE=/usr/tomcat/apache-tomcat-8.5.73"
-Environment="CATALINA_HOME=/usr/tomcat/apache-tomcat-8.5.73"
-Environment="CATALINA_PID=/usr/tomcat/apache-tomcat-8.5.73/temp/tomcat.pid"
+Environment="CATALINA_BASE=/usr/tomcat/apache-tomcat-8.5.75"
+Environment="CATALINA_HOME=/usr/tomcat/apache-tomcat-8.5.75"
+Environment="CATALINA_PID=/usr/tomcat/apache-tomcat-8.5.75/temp/tomcat.pid"
 Environment="CATALINA_OPTS=-Xms512M -Xmx1024M -server -XX:+UseParallelGC"
 
-ExecStart=/usr/tomcat/apache-tomcat-8.5.73/bin/startup.sh
-ExecStop=/usr/tomcat/apache-tomcat-8.5.73/bin/shutdown.sh
+ExecStart=/usr/tomcat/apache-tomcat-8.5.75/bin/startup.sh
+ExecStop=/usr/tomcat/apache-tomcat-8.5.75/bin/shutdown.sh
 
 [Install]
 WantedBy=multi-user.target
