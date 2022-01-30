@@ -1,0 +1,8 @@
+#!/bin/bash
+sudo yum update -y
+sudo yum install -y mariadb-server
+sudo systemctl enable mariadb
+sudo systemctl start mariadb
+sudo mysqladmin password nhn1234
+sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/scott.sql
+mysql -uroot -pnhn1234 mysql < scott.sql
