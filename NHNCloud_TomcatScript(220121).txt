@@ -1,0 +1,17 @@
+#!/bin/bash
+sudo apt-get update -y
+sudo apt-get install -y apache2
+sudo apt-get install -y openjdk-11-jdk
+sudo mkdir -p /usr/tomcat
+cd /tmp
+sudo wget https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.75/bin/apache-tomcat-8.5.75.tar.gz
+sudo tar -zxvf apache-tomcat-8.5.75.tar.gz
+sudo mv apache-tomcat-8.5.75 /usr/tomcat/
+cd /usr/tomcat/apache-tomcat-8.5.75
+sudo update-java-alternatives -l
+sudo apt-get install -y haveged
+cd /etc/systemd/system/
+sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/tomcat.service
+sudo systemctl daemon-reload
+sudo systemctl start tomcat
+sudo systemctl status tomcat
