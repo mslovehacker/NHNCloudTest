@@ -1,6 +1,5 @@
 #!/bin/bash
 sudo apt-get update -y
-sudo apt-get install -y apache2
 sudo apt-get install -y openjdk-11-jdk
 sudo mkdir -p /usr/tomcat
 cd /tmp
@@ -10,17 +9,9 @@ sudo mv apache-tomcat-8.5.75 /usr/tomcat/
 cd /usr/tomcat/apache-tomcat-8.5.75
 sudo update-java-alternatives -l
 sudo apt-get install -y haveged
-sudo apt-get install -y libapache2-mod-jk
 
-cd /etc/systemd/system/
-sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/tomcat.service
-
-cd /etc/libapache2-mod-jk/
-sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/workers.properties
-
-cd /etc/apache2/sites-available/
-sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/000-default.conf
-
+sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/server.xml -P /usr/tomcat/apache-tomcat-8.5.75/conf/
+sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/server.xml -P /usr/tomcat/apache-tomcat-8.5.75/conf/
 
 sudo systemctl daemon-reload
 sudo systemctl start tomcat
