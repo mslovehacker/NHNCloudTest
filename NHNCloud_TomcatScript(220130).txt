@@ -11,7 +11,7 @@ sudo update-java-alternatives -l
 sudo apt-get install -y haveged
 
 sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/server.xml -P /usr/tomcat/apache-tomcat-8.5.75/conf/
-sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/server.xml -P /usr/tomcat/apache-tomcat-8.5.75/conf/
+sudo wget https://github.com/mslovehacker/NHNCloudTest/raw/main/WebAppTest11.war -P /usr/tomcat/apache-tomcat-8.5.75/webapps/
 
 sudo systemctl daemon-reload
 sudo systemctl start tomcat
