@@ -10,6 +10,7 @@ cd /usr/tomcat/apache-tomcat-8.5.75
 sudo update-java-alternatives -l
 sudo apt-get install -y haveged
 
+sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/tomcat.service -O /etc/systemd/system/tomcat.service
 sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/server.xml -O /usr/tomcat/apache-tomcat-8.5.75/conf/server.xml
 sudo wget https://github.com/mslovehacker/NHNCloudTest/raw/main/WebAppTest11.war -O /usr/tomcat/apache-tomcat-8.5.75/webapps/WebAppTest11.war
 
