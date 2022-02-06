@@ -4,6 +4,8 @@ sudo apt-get install -y apache2
 
 sudo apt-get install -y libapache2-mod-jk
 
+sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/workers.properties -O /etc/libapache2-mod-jk/workers.properties
+
 sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/000-default.conf -O /etc/apache2/sites-available/000-default.conf
 
 sudo a2enmod proxy
