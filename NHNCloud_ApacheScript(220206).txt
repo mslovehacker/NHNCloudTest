@@ -1,0 +1,17 @@
+#!/bin/bash
+sudo apt-get update -y
+sudo apt-get install -y apache2
+
+sudo apt-get install -y libapache2-mod-jk
+
+cd /etc/apache2/sites-available/
+sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/000-default.conf
+
+sudo a2enmod proxy
+sudo a2enmod proxy_http
+sudo a2enmod proxy_balancer
+sudo a2enmod lbmethod_byrequests
+
+sudo systemctl daemon-reload
+sudo systemctl start apache2
+sudo systemctl status apache2
