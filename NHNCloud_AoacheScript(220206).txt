@@ -2,15 +2,14 @@
 sudo apt-get update -y
 sudo apt-get install -y apache2
 
-sudo apt-get install -y libapache2-mod-jk
+sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/000-default.conf -O /etc/apache2/sites-available/000-default.conf
 
-cd /etc/libapache2-mod-jk/
-sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/workers.properties
-
-cd /etc/apache2/sites-available/
-sudo wget https://raw.githubusercontent.com/mslovehacker/NHNCloudTest/main/000-default.conf
-
+sudo a2enmod proxy
+sudo a2enmod proxy_http
+sudo a2enmod proxy_balancer
+sudo a2enmod lbmethod_byrequests
 
 sudo systemctl daemon-reload
 sudo systemctl start apache2
 sudo systemctl status apache2
+sudo systemctl restart apache2
