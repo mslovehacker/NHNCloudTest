@@ -1,4 +1,4 @@
-grant all privileges on *.* to 'root'@'10.10.1.%' identified by 'nhn1234';
+grant all privileges on *.* to 'root'@'10.0.100.%' identified by 'nhn1234';
 
 CREATE database SCOTT;
 
@@ -76,5 +76,3 @@ INSERT INTO `SALGRADE` (`GRADE`, `LOSAL`, `HISAL`) VALUES
 
 ALTER TABLE `EMP`
   ADD CONSTRAINT `PK_EMP` FOREIGN KEY (`DEPTNO`) REFERENCES `DEPT` (`DEPTNO`) ON DELETE SET NULL ON UPDATE CASCADE;
-  
-
