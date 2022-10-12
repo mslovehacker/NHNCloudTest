@@ -1,0 +1,850 @@
+QUESTION 1
+Which of the following does IT outsourcing and cloud computing typically have in common?
+
+A. Pay as you go agreements
+B. Short-term financial commitment
+C. Tailor-made applications based on client needs
+D. Vendor lock-in potential
+
+Answer: D
+
+QUESTION 2
+Which of the following does the server virtualization layer do?
+
+A. It allows the underling physical server hardware to be shared
+B. It allows the virtual machines to be dependent on each other
+C. It allows the virtual machines to be load balanced
+D. It prohibits the use of virtual machines by unauthorized users
+
+Answer: A
+
+QUESTION 3
+Which of the following are essential steps to take when creating a virtual server?
+
+A. Select a machine image to run, select an application set to run, select security credentials.
+B. Select a machine image to run, select an application set to run, select the size of the virtual machine.
+C. Select a machine image to run, select security credentials, select the size of the virtual machine.
+D. Select an application set to run, select security credentials, select the size of the virtual machine.
+
+Answer: C
+
+QUESTION 4
+Which of the following technologies are related to Web services?
+
+A. HTML, IDM, JSON
+B. HTML, IDM, XML
+C. HTML, JSON, XML
+D. DM, JSON, XML
+
+Answer: C
+
+QUESTION 5
+Web hosting is a service that enables customers to deploy a website quickly. This is an example
+of: ____.
+
+A. laaS
+B. SaaS
+C. PaaS
+D. On-demand software
+E. None of the above
+
+Answer: C
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+QUESTION 6
+Which of the following describes the amount of data that can be sent across a link in a given time?
+
+A. Network bandwidth
+B. Network QoS
+C. Network latency
+D. Network speed
+
+Answer: A
+
+QUESTION 7
+How can the internal IT department successfully react to cloud computing?
+
+A. By becoming an external cloud provider
+B. By becoming an internal cloud provider
+C. By outsourcing all IT services
+D. By solely focusing on security issues
+
+Answer: B
+
+QUESTION 8
+Which of the following is a business reason for IT outsourcing and cloud computing?
+
+A. Improving cost structure
+B. Improving customer satisfaction
+C. Increasing control over IT systems
+D. Decrease of security issues
+
+Answer: A
+
+QUESTION 9
+Which of the following assets have risks related to a cloud provider going out of business?
+
+A. Data stored at the provider
+B. Cloud management tools housed at the provider
+C. Investment in servers at the provider
+D. Machine capacity at the provider
+
+Answer: A
+
+QUESTION 10
+Which of the following is included in a compliance audit?
+
+A. Analyzing chargeback agreements
+B. Analyzing cloud provider Service Level Agreements (SLAs)
+C. Analyzing identity management and access controls
+D. Analyzing the provider release calendar
+
+Answer: C
+
+QUESTION 11
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+How does cloud computing influence service operations?
+
+A. Cloud computing is more cost effective
+B. The provisioning of servers and services is quicker or ceases to be an issue
+C. The provisioning of servers and services can be much slower
+D. The security level will increase
+
+Answer: B
+
+QUESTION 12
+Cloud computing brings new challenges to ____ management, because traditional licensing
+models do not fit well with scalable resources.
+
+A. commercial
+B. financial
+C. legal
+D. service
+
+Answer: B
+
+QUESTION 13
+Which of the following is indicated by a high number of variations of different virtual servers?
+
+A. Lack of an automated provisioning process of the virtual machines
+B. Lack of automation of virtual machine image manufacturing
+C. Lack of manpower to monitor the virtual machines
+D. Lack of physical servers to accommodate the different virtual servers
+
+Answer: B
+
+QUESTION 14
+Cloud computing is priced according to ____ or has ____, rather than having upfront costs.
+
+A. recurring subscription, a yearly contract
+B. a yearly contract, usage-based charges
+C. recurring subscription, usage-based charges
+D. number of users, a yearly contract
+
+Answer: C
+
+QUESTION 15
+Which change in the security processes is introduced by cloud computing?
+
+A. Increased security of accessing credit card information
+B. Regulations need to be updated more frequently
+C. Storing passwords in the Configuration Management Database (CMDB)
+D. Working with multiple providers of user identities
+
+Answer: D
+
+QUESTION 16
+Who is responsible for granting access to a user in federated identity management?
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+A. Identity provider
+B. Relying party
+C. SaaS provider
+D. User
+
+Answer: B
+
+QUESTION 17
+Which of the following is a definition of virtualization?
+
+A. Virtualization is a method to organize servers in a more efficient manner to double the number of accessible users.
+B. Virtualization is a set of techniques for hiding software resources behind hardware abstractions.
+C. Virtualization is a set of techniques for hiding hardware resources behind software abstractions.
+D. Virtualization is a method to structure data in a more efficient manner with less cost to the user.
+
+Answer: C
+
+QUESTION 18
+Which of the following confidentiality risks is introduced by cloud computing?
+
+A. Company information can be transmitted electronically
+B. Digitizing information makes it easier to copy
+C. Government regulations require data to be disclosed
+D. Having files stored on the servers of a cloud provider
+
+Answer: D
+
+QUESTION 19
+Which of the following processes needs to be changed to better handle Change Management in
+the cloud?
+
+A. Financial chargeback
+B. Security management
+C. Hardware maintenance
+D. Software distribution
+
+Answer: D
+
+QUESTION 20
+In which of the following ways do IT outsourcing and cloud computing differ?
+
+A. Cloud computing services are typically much more scalable.
+B. Cloud computing is much cheaper.
+C. Hardware and software assets are typically customizable.
+D. IT outsourcing promotes innovation.
+
+Answer: A
+
+QUESTION 21
+How can an organization successfully implement an laaS strategy?
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+A. Standardize on a limited set of virtual machines
+B. Continuously execute performance analytics
+C. Open up internal databases with Web service access
+D. Take inventory of the application portfolio and select external suppliers
+
+Answer: A
+
+QUESTION 22
+Which of the following are strategic exit options?
+
+A. Change the system applications
+B. Change the cloud provider
+C. Re-host in-house
+D. All of the above
+
+Answer: C
+
+QUESTION 23
+All of the following are important design decisions when deploying SaaS EXCEPT: ____.
+
+A. How existing company data is integrated in or migrated to the application
+B. How the application will be integrated with other applications
+C. The number of users that will access the application simultaneously
+D. Where or by whom will digital identities be issued for logging on to the application
+
+Answer: C
+
+QUESTION 24
+Which of the following application types is suitable for a cloud computing pilot?
+
+A. Desktop productivity applications
+B. Marginal applications
+C. Mission-critical applications
+D. Legacy applications
+
+Answer: A
+
+QUESTION 25
+A military facility is NOT able to fully embrace cloud computing because of which of the following?
+
+A. High degree of confidentiality and operational assurance
+B. The associates cost and infrastructure needs
+C. Constantly changing and unpredictable workloads
+D. Constantly changing data and accessibility needs
+
+Answer: A
+
+QUESTION 26
+All of the following are availability risks that are introduced by cloud computing EXCEPT: ____.
+
+A. Dependence on an external provider
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+B. Dependence on internal IT
+C. Increase in users who can change data
+D. Network connectivity
+
+Answer: C
+
+QUESTION 27
+How does scalability work with cloud computing?
+
+A. Servers and storage can be added quickly.
+B. Servers and storage can be released quickly.
+C. Users can be added and removed quickly.
+D. All of the above is correct.
+
+Answer: D
+
+QUESTION 28
+Which of the following risks occurs when a cloud provider stops serving the company?
+
+A. Continuity risk
+B. Financial risk
+C. Legal risk
+D. Confidentiality risk
+
+Answer: A
+
+QUESTION 29
+Which of the following is a relevant component of the cloud ecosystem?
+
+A. Hypervisors
+B. Image factory
+C. Security procedures
+D. Trained IT staff
+
+Answer: B
+
+QUESTION 30
+Which of the following business benefits do cloud computing and IT outsourcing have in common?
+
+A. Clarity and budgeting ease of upfront costs
+B. Improvement of employee skills sets
+C. Reduction of capital expenditures
+D. Flexible contracts
+
+Answer: C
+
+QUESTION 31
+Which IT process is likely to take more effort with cloud computing?
+
+A. Hardware maintenance
+B. Installing operating system patches
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+C. Performance monitoring
+D. Server maintenance
+
+Answer: C
+
+QUESTION 32
+Why does cloud computing shift capital cost to variable cost?
+
+A. Cloud computing is more cost-efficient
+B. IT assets are not owned by the customer
+C. Servers are better utilized
+D. Staff is no longer hired by the customer
+
+Answer: B
+
+QUESTION 33
+Which of the following is the risk when an IT department restricts itself to solely being an
+infrastructure provider?
+
+A. Business users will bypass the IT department
+B. Cloud providers will take over the role of the IT department
+C. Service providers will bypass the IT department
+D. All of the above are correct
+
+Answer: A
+
+QUESTION 34
+Which of the following cloud computing risks is compliance related?
+
+A. Access rights that are handled by a cloud provider
+B. Capacity management that is handled by a cloud provider
+C. Cross-charging policies that are handled by both clients
+D. Provider reputation
+
+Answer: A
+
+QUESTION 35
+Which of the following is the difference between cloud computing and IT outsourcing?
+
+A. The service levels of cloud computing are much better.
+B. IT outsourcing is not based on open standards.
+C. Contracts with cloud providers can be changed much quicker.
+D. Only IT outsourcing works with external staff.
+
+Answer: C
+
+QUESTION 36
+A company is using an Internet-based cloud service provided by a third party. Which of the following
+can the third party NOT guarantee when providing cloud resources?
+
+A. Capacity
+B. Scalability
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+C. Network path
+D. Cost
+
+Answer: D
+
+QUESTION 37
+Which of the following is the business benefit of private PaaS?
+
+A. Improve the reuse of internal databases in an organization.
+B. Improve the speed of the internal development and deployment processes.
+C. Reduce cost and reliance on internal technical skills.
+D. Simplify interfaces for specific user groups.
+
+Answer: B
+
+QUESTION 38
+In order for an organization to have a successful cloud implementation, which of the following must
+be true?
+
+A. The organization must perform and successfully complete a cloud readiness assessment.
+B. The organization must have used virtualization technology in the past.
+C. The organization must have an unlimited budget for allocation of cloud resources.
+D. The organization must have an in-house IT department.
+
+Answer: A
+
+QUESTION 39
+Which of the following correctly identifies a key difference between cloud computing and IT
+outsourcing?
+
+A. Typically, industry definitions state that cloud computing and IT outsourcing are synonymous terms with the same
+
+meaning.
+
+B. Cloud computing only works when there is satisfactory Internet connectivity whereas outsourcing requires
+
+dedicated WAN links.
+
+C. Cloud computing generally allows for on-demand utilization, whereas outsourcing is typically defined by contract
+
+terms.
+
+D. Cloud computing provides only external IT equipment to a company whereas outsourcing involves external only
+
+resources managing internal company equipment.
+
+Answer: C
+
+QUESTION 40
+Which of the following is the BEST example of maintaining 'strategic flexibility'?
+
+A. Cloud provisioning models have a risk of not maintaining flexibility once services have been migrated.
+B. When choosing services to migrate into the cloud, there should be a focus on ensuring that future migration
+
+between different cloud providers can be facilitated.
+
+C. Cloud providers need to provide countermeasures to any consequences of not maintaining flexibility of services
+
+in a strategic manner.
+
+D. When choosing services to migrate into the cloud, it should be ensured that the cloud provider can change
+
+underlying hardware platforms in case the customer needs change.
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+Answer: B
+
+QUESTION 41
+A company is adopting a public SaaS cloud based computing system to migrate a mission critical
+application. Which of the following capabilities will be MOST likely lost?
+
+A. Centralized management of user access to the application.
+B. Aversion of the software that will be accessed in the cloud.
+C. The ability to perform fine grained customizations to the software.
+D. The ability to access the application from the internal company network.
+
+Answer: C
+
+QUESTION 42
+Which of the following refers to providing a combination of servers, networking components, hosting,
+provisioning, and basic services needed to run a cloud?
+
+A. PaaS
+B. CaaS
+C. SaaS
+D. IaaS
+
+Answer: D
+
+QUESTION 43
+The business benefits of mobile computing are enhanced MOST by which of the following cloud
+service characteristics?
+
+A. Hardware independence
+B. Security
+C. Distribution over the Internet
+D. Time to market
+
+Answer: C
+
+QUESTION 44
+A company decides to subscribe to a new CRM product that will help improve their business
+processes. Which of the following types of cloud computing would MOST likely be implemented?
+
+A. PaaS
+B. XaaS
+C. IaaS
+D. SaaS
+
+Answer: D
+
+QUESTION 45
+An organization is replacing its core insurance platform. The solution is made up of internally hosted
+insurance systems and applications hosted in the cloud. Which of the following activities is part of
+service transition?
+
+A. Ensure that as part of the change management process the events are sequenced to include the cloud provider
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+and that they have resources available.
+
+B. Ensure that monitoring controls are implemented by the cloud provider to ensures that the system is highly
+
+available and that performance can be measured.
+
+C. Ensure that the SLA's for availability have been well documented and agreed to as part of the contract
+
+arrangement between the two companies.
+
+D. Ensure that the capacity and storage is available to meet the current and future demands of the solution of the
+
+cloud provider's infrastructure.
+
+Answer: A
+
+QUESTION 46
+Which of the following early examples of cloud computing was used for software engineering
+purposes in the form of web-based applications and required interoperability between different
+systems?
+
+A. Distributed Computing
+B. Service-Oriented Architecture (SOA)
+C. Virtual Private Networks (VPNs)
+D. Desktop Virtualization
+
+Answer: B
+
+QUESTION 47
+Users report that they are unable to access a virtual server. Which of the following commands
+would allow the network administrator to verify the current network settings within the virtual server?
+
+A. nbtstat
+B. tftp
+C. telnet
+D. arp
+E. ping
+F.
+ipconfig
+
+Answer: F
+
+QUESTION 48
+A network administrator needs to manage a virtual switch remotely in a secure manner. Which of
+the following tools would MOST likely be used?
+
+A. RDP
+B. SNMP
+C. SSH
+D. Telnet
+
+Answer: C
+
+QUESTION 49
+A specific cloud deployment has been established specifically for financial services companies to
+consume. Which of the following BEST describes this type of cloud environment?
+
+A. Private cloud
+B. Community cloud
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+C. Hybrid cloud
+D. Public cloud
+
+Answer: B
+
+QUESTION 50
+Which of the following aspects of public cloud computing would a company MOST likely need to
+consider to ensure information security?
+
+A. Data integrity
+B. Server type
+C. Firewall specifications
+D. Network hardware
+
+Answer: A
+
+QUESTION 51
+Which of the following factors of service must be managed effectively by a SaaS provider in a cloud
+computing environment?
+
+A. Application access levels
+B. Client background checks
+C. Availability
+D. User acceptance
+
+Answer: C
+
+QUESTION 52
+A private cloud generally has which of the following characteristics?
+
+A. Services are restricted to members of the same organization
+B. Infrastructure is managed by an independent service provider
+C. Services are managed by a third-party provider
+D. Services are accessed by members outside of the organization
+
+Answer: A
+
+QUESTION 53
+Which of the following is the MOST significant difference between SaaS and IaaS?
+
+A. IaaS can test network configurations.
+B. SaaS is accessible anywhere.
+C. SaaS is used for only public clouds.
+D. IaaS can be secured and encrypted.
+
+Answer: A
+
+QUESTION 54
+An organization subscribes to a public cloud. For which of the following does the subscriber NOT
+depend on the vendor?
+
+A. Internet bandwidth and packet latency
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+B. Service Level Agreement
+C. Data backups
+D. Infrastructure availability
+
+Answer: A
+
+QUESTION 55
+How does using cloud computing help to enhance business value?
+
+A. By using cloud computing, businesses are able to realize lower asset utilization for personnel.
+B. By paying for actual usage, cloud computing allows businesses to convert fixed costs into variable costs.
+C. By using cloud computing, businesses are able to lower server utilization.
+D. By paying for actual usage, cloud computing allows businesses to convert variable costs into fixed costs.
+
+Answer: B
+
+QUESTION 56
+Which of the following cloud service characteristics would impact how a current application will
+adapt in the future according to how quickly a business will grow?
+
+A. Time to market
+B. Scalability
+C. Hardware independence
+D. Security
+
+Answer: B
+
+QUESTION 57
+Which of the following is an advantage of cloud computing that can enhance business value?
+
+A. Hardware dependence
+B. Scalability
+C. Fixed costs
+D. Security
+
+Answer: B
+
+QUESTION 58
+Which of the following would be considered in a private cloud?
+
+A. Organizational direct attached storage
+B. Organizational SAN
+C. Vendor leased co-hosted storage
+D. Encrypted shared drive
+
+Answer: B
+
+QUESTION 59
+Which of the following critical success factors would likely persuade a company to use a SaaS
+service?
+
+A. The elimination of company driven application maintenance and backups
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+B. The lowering of thin client management costs
+C. The decrease of company-owned physical system downtime
+D. The increase of web presence
+
+Answer: A
+
+QUESTION 60
+Which of the following statements represents the correct definition of the terms 'cost allocation' and
+'chargeback'?
+
+A. 'Cost allocation' focuses on recovering costs from consumers of cloud-delivered services whereas 'chargeback'
+
+relates to identifying costs and assigning them to specific cost categories.
+
+B. 'Cost allocation' and 'chargeback' are synonymous terms that relate to allocating costs of cloud services and
+
+ensuring that billing occurs for the services being delivered.
+
+C. 'Cost allocation' relates to identifying costs and assigning them to specific cost categories.
+
+'Chargeback' is focused on recovering costs from consumers of the cloud-delivered services.
+
+D. 'Cost allocation' and 'chargeback' relate to ensuring that cloud computing delivery services are a profit center
+
+instead of a cost center. This leads to a positive return on investment for both cloud provider and cloud consumer.
+
+Answer: C
+
+QUESTION 61
+Cloud computing can BEST reduce costs for a business by: ____.
+
+A. Utilizing services as needed
+B. Increasing available data storage
+C. Utilizing local resources
+D. Increasing sales potential
+
+Answer: A
+
+QUESTION 62
+Which of the following is an important factor for maintaining strategic flexibility?
+
+A. Return on investment
+B. Integrity
+C. Elasticity
+D. Vendor lock-in
+
+Answer: D
+
+QUESTION 63
+In cloud computing, the ability to scale resources on demand, benefits the business in which of the
+following ways?
+
+A. Allowing a third party to manage service delivery ensures lower staffing costs.
+B. It is more cost effective to pay for what is needed rather than pay for peak demand upfront.
+C. Fewer in-house servers lower the power consumption of the datacenter.
+D. Shorter contracts and less capital expenses reduce expenditures to the IT budget.
+
+Answer: B
+
+
+New VCE and PDF Exam Dumps from PassLeader
+
+CLO-001 Exam Dumps CLO-001 Exam Questions CLO-001 VCE Dumps CLO-001 PDF Dumps
+
+Back to the Source of this PDF and Get More Free Braindumps -- www.comptiadump.com
+
+QUESTION 64
+An organization requires that it federates its internal systems and their externally hosted SaaS
+finance system so a user does not have to re-authenticate. This is an example of which of the
+following?
+
+A. Open authentication
+B. Single sign-on
+C. Biometric scanning
+D. Multifactor authentication
+
+Answer: B
+
+QUESTION 65
+Which of the following are the appropriate steps to migrating a backwards compatible application
+into the cloud?
+
+A. Assess, proof of concept, migrate data, migrate application, automation/scaling, and optimizing
+B. Migrate the data and rebuild the application using APIs
+C. Purchase service from cloud provider, migrate the user accounts, and disable the internal infrastructure
+D. Decommission the internal infrastructure, purchase service from the cloud provider, and enable for business users
+
+Answer: A
+
+QUESTION 66
+Which of the following risks are associated with using a customized proprietary cloud application?
+
+A. Simplified continuity of operation and disaster recovery plan
+B. Lack of internal control over function and design of applications
+C. Locking into the cloud provider and increasing costs over the long term
+D. Reassignment of roles and responsibilities would be necessary
+
+Answer: C
+
+QUESTION 67
+Which of the following skills is MOST needed by the cloud vendor to communicate with the
+subscriber?
+
+A. Project management
+B. Customer service
+C. Industry best practices
+D. Visualization
+
+Answer: B
+
+QUESTION 68
+A company is implementing a system replacement which has application components that are
+internally hosted and multiple application components that are hosted as software as a service by
+different cloud providers. Which of the following represents the challenge of this architecture?
+
+A. Complexity
+B. Time to market
+C. Cost saving
